@@ -19,3 +19,6 @@ How to running test :
 
 Notes :
 - Keep the phone screen on.
+
+Link test run record :
+https://drive.google.com/file/d/1yPbslxvmcaCYbqS5l0i_r6FGF0mvFTlE/view?usp=sharing
