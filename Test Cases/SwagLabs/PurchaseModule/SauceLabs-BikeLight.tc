@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SauceLabs-BikeLight</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bbd2292-fc5d-4f30-b595-d1169afc3d03</testCaseGuid>
+</TestCaseEntity>
