@@ -7,9 +7,10 @@ Preparation for running test using katalon studio v9.5.0
 - Install appium version 3.5.0
 - Install jdk 21.0.2
 - Install "Android.SauceLabs.Mobile.Sample.app.2.7.1.apk"
-- Real device mobile android
+- Please download and install AlfaGift from the Google Play Store on your Android device
+- Please connect your device mobile to a PC or laptop
 
-How to running test :
+How to running test Sauce Lab :
 - clone project form git
 - Open project using katalon studio
 - Open folder test suites
