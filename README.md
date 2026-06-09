@@ -10,6 +10,11 @@ Preparation for running test using katalon studio v9.5.0
 - Please download and install AlfaGift from the Google Play Store on your Android device
 - Please connect your device mobile to a PC or laptop
 
+How to connect device to PC or laptop :
+- Enable Developer Options on the Android Device (Open Settings -> Go to About Phone -> Tap Build Number 7 times until Developer Options are enabled)
+- Enable USB Debugging (Open Settings → Developer Options -> Enable USB Debugging)
+- Connect the Device to the laptop / PC (Use a USB cable to connect the Android device to your PC/laptop -> When prompted on the device, tap Allow USB debugging)
+
 How to running test Sauce Lab :
 - clone project form git
 - Open project using katalon studio
